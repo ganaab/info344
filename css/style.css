@@ -1,0 +1,36 @@
+body {
+	background-image: url(../img/basketball-court-backgrounds.jpg);
+	background-color: #555;
+	background-size: 100%;
+	font-family: Times;
+}
+
+form {
+	text-align: center;
+
+}
+
+.searchArea {
+	background-color: rgba(0, 0, 0, 0.7);
+	color: #FFF;
+	text-align: center;
+	border-radius: 5px;
+	padding: 20px;
+}
+.resultArea {
+	background-color: rgba(0, 0, 0, 0.7);
+	color: #FFF;
+	text-align: center;
+	border-radius: 5px;
+	padding: 20px;
+	padding-left: 100px;
+}
+h1 {
+	border-radius: 5px;
+	display: inline-block;
+	text-align: center;
+	margin-right: 80px;
+}
+pre {
+	border: 0;
+}
